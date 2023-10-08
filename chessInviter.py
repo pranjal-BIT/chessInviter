@@ -7,7 +7,7 @@ phone_numbers = [
 ] # Add the numbers you want to message
 
 # Message to be sent
-message_text = 'You have been selected to the chess club join this group: https://chat.whatsapp.com/GLlrwGymNou77OCro7b9HZ'
+message_text = 'You have been selected to the chess club join this group: {Group Link}'
 
 # Loop through the list of phone numbers and send the message
 for phone_number in phone_numbers:
